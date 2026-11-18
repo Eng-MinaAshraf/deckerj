@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Nov 2026 00:56:16 at https://www.deckerj.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.deckerj.com/ -O1 "C:\My Web Sites\51" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:58:32	Error: 	"Not Found" (404) at link https://www.deckerj.com/assets/fonts/Satoshi-900-italic.woff2 (from https://www.deckerj.com/)
+00:58:32	Warning: 	Retry after error -4 (Connect Error) at link https://www.googletagmanager.com/gtm.js?id=GTM-T2MM3PK9 (from https://www.deckerj.com/)
+00:58:32	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/51/www.deckerj.com/assets/logos/brands/fortuna.svg
+00:58:32	Error: 	"Not Found" (404) at link https://www.deckerj.com/oanda-coin.png (from https://www.deckerj.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 19 seconds : 72 links scanned, 68 files written (2365961 bytes overall) [2190421 bytes received at 15758 bytes/sec], 360952 bytes transferred using HTTP compression in 10 files, ratio 33%
+(2 errors, 2 warnings, 0 messages)
